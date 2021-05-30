@@ -1,0 +1,39 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkcyan;
+}
+
+h1 {
+    text-align: center;
+}
+
+.wrapper {
+    color: orange;
+    padding: 0 50px;
+    text-align: center; 
+}
+
+header a {
+    color: black;
+    background-color: rgb(45, 25, 161);
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+
+footer {
+    background-color: cyan;
+    color: rgb(189, 255, 7);
+}
+
+a:hover {
+    background-color: orange;
+    transition: 2s linear
+}
+
+h2 {
+    border-bottom: 3px dashed rgb(11, 255, 255);
+}
